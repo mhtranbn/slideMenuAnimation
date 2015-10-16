@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  SideMenuAnimation
 //
-//  Created by Mac Dev on 2015. 10. 16..
+//  Created by todd.kim on 2015-10-16.
 //  Copyright © 2015년 Clipper Works. All rights reserved.
 //
 
